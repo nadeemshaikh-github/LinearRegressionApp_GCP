@@ -1,3 +1,3 @@
 Linear Regression App
 # Admission Prediction
-# GCP Cloud Deployment
+# Cloud Deployment -GCP
